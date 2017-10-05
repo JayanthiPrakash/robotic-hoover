@@ -43,6 +43,3 @@ Post Data:
   "instructions" : "NNESEESWNWW"
 }
 
-#To run tests:
-
-Select Run All Tests on Test Folder
